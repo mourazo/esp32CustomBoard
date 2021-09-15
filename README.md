@@ -10,9 +10,9 @@ This is an esp32 custom PCB. The features of the board are:
 
 •	2 relay outputs
 
-•	2 ADC 16 bit 4-20 mA terminals, by I2C powered by 16 bits ADC
+•	2 ADC 16 bit 4-20 mA terminals
 
-•	2 ADC 16 bit 0-5 volts terminals, by I2C, powered by 16 bits ADC
+•	2 ADC 16 bit 0-5 volts terminals
 
 •	7 ADC 12 bit pins
 
