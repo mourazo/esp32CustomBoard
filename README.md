@@ -2,7 +2,7 @@
 
 This is an esp32 custom PCB. The features of the board are:
 
-•	7-35 volts for power the board with the power inputs
+•	7-35 power input
 
 •	LORA connectivity 
 
