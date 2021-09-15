@@ -20,8 +20,9 @@ This is an esp32 custom PCB. The features of the board are:
 
 •	One I2C mini display SSD1306
 
+Example of usage scheme:
 
-
+![WINWORD_Mam87tJGcW](https://user-images.githubusercontent.com/62071796/133403772-50f94352-f3de-485c-a027-ccb2971a9364.png)
 
 
 
